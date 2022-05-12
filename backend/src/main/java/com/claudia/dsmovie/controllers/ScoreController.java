@@ -2,7 +2,6 @@ package com.claudia.dsmovie.controllers;
 
 import com.claudia.dsmovie.dto.MovieDTO;
 import com.claudia.dsmovie.dto.ScoreDTO;
-import com.claudia.dsmovie.services.MovieService;
 import com.claudia.dsmovie.services.ScoreService;
 
 import org.springframework.beans.factory.annotation.Autowired;
